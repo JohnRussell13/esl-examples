@@ -1,0 +1,3 @@
+Okacen je i izvrsni fajl da bi se demonstrirala uspesno izvrsena simulacija.
+
+Napomena: Izvrsni fajl ne odgovara 1-1 cpp fajlu - source code za izvrsni fajl ne sadrzi cin linije, vec je ulaz hard coded. Originalni source code za njega je izgubljen, ali to ne menja sustinski stvari.
